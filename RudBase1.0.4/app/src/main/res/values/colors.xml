@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00acc1</color>
+    <color name="colorPrimaryDark">#00acc1</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorPrimaryVK">#537daf</color>
+    <color name="colorPrimaryDarkVK">#38618d</color>
+    <color name="colorAccentVK">#ffffff</color>
+    <color name="colorPrimaryGM">#da4336</color>
+    <color name="colorPrimaryDarkGM">#b93221</color>
+    <color name="colorAccentGM">#ffffff</color>
+    <color name="colorPrimaryWA">#075e55</color>
+    <color name="colorPrimaryDarkWA">#024e42</color>
+    <color name="colorAccentWA">#ffffff</color>
+    <color name="colorPrimaryOR">#ee812c</color>
+    <color name="colorPrimaryDarkOR">#e17101</color>
+    <color name="colorAccentOR">#ffffff</color>
+    <color name="colorPrimaryDR">#434242</color>
+    <color name="colorPrimaryDarkDR">#302f2f</color>
+    <color name="colorAccentDR">#ffffff</color>
+    <color name="progressBarColor">#add6ff</color>
+    <color name="textColor">#1b1b1b</color>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Полезные телефоны г.Рудный</string>
+    <string name="action_search">Поиск..</string>
+    <string name="action_about">О приложении</string>
+    <string name="title_about_activity">О приложении</string>
+
+    <string name="search_hint">Поиск..</string>
+    <string name="action_share">Поделиться</string>
+    <string name="main_title">Категории</string>
+    <string name="nofingSeach">Ничего не найдено!</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="list1_title">Тема приложения</string>
+    <string name="list1_summary">Выберите тему оформления</string>
+    <string name="default_string">По умолчанию</string>
+    <string name="switch_title">Улучшить приложние</string>
+    <string name="switch_summary">Отправлять отчеты об использовании приложения для улучшения его работы</string>
+    <string name="logoRB">logoRB</string>
+    <string name="splash_text1">Полезные телефоны</string>
+    <string name="splash_text2"> г.Рудный</string>
+    <string name="aboutText"> "<b>Полезные телефоны г.Рудный</b>"  </string>
+    <string name="aboutText1"> "Это база полезных номеров телефонов по городу Рудному."</string>
+    <string name="aboutText2">  "Всегда под рукой, без доступа к интернету!"</string>
+
+    <string name="aboutText3"> "Более 300 номеров в 60 категориях на все случаи жизни!"</string>
+
+    <string name="aboutText4"> "Если Вы не нашли номер своей компании или обнаружили ошибку пожалуйста напишите нам и мы обязательно все исправим!"</string>
+
+    <string name="aboutText5"> "Общегородской проект"</string>
+
+
+
+</resources>

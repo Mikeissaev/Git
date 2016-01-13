@@ -1,0 +1,70 @@
+<resources     xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base"/>
+
+        <!-- Customize your theme here. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarTheme">@style/AppTheme.ActionBarTheme</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+    <style name="AppTheme.ActionBarTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlActivated">#FFffffff</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="menu_fab_label_style">
+        <item name="android:background">@drawable/fab_label</item>
+        <item name="android:textColor">#fafafa</item>
+    </style>
+
+    <!-- Тема Вконтакте -->
+    <style name="VKTheme" parent="AppTheme">
+        <item name="actionBarTheme">@style/AppTheme.ActionBarTheme</item>
+        <item name="colorPrimary">@color/colorPrimaryVK</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkVK</item>
+        <item name="colorAccent">@color/colorPrimaryVK</item>
+    </style>
+
+    <!-- Тема Gmail -->
+    <style name="GMTheme" parent="AppTheme">
+        <item name="actionBarTheme">@style/AppTheme.ActionBarTheme</item>
+        <item name="colorPrimary">@color/colorPrimaryGM</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGM</item>
+        <item name="colorAccent">@color/colorPrimaryGM</item>
+    </style>
+
+    <!-- Тема WhatsApp -->
+    <style name="WATheme" parent="AppTheme">
+        <item name="actionBarTheme">@style/AppTheme.ActionBarTheme</item>
+        <item name="colorPrimary">@color/colorPrimaryWA</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkWA</item>
+        <item name="colorAccent">@color/colorPrimaryWA</item>
+    </style>
+
+    <!-- Тема Orange -->
+    <style name="ORTheme" parent="AppTheme">
+        <item name="actionBarTheme">@style/AppTheme.ActionBarTheme</item>
+        <item name="colorPrimary">@color/colorPrimaryOR</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkOR</item>
+        <item name="colorAccent">@color/colorPrimaryOR</item>
+    </style>
+
+    <!-- Тема Dark -->
+    <style name="DRTheme" parent="AppTheme">
+        <item name="actionBarTheme">@style/AppTheme.ActionBarTheme</item>
+        <item name="colorPrimary">@color/colorPrimaryDR</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkDR</item>
+        <item name="colorAccent">@color/colorPrimaryDR</item>
+    </style>
+</resources>

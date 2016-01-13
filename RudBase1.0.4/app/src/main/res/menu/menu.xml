@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rudbase.mikeissaev.rudbase.MainActivity">
+    <item
+        android:id="@+id/search"
+        android:icon="@mipmap/ic_magnify_white_24dp"
+        android:orderInCategory="1"
+        android:title="@string/action_search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/share"
+        android:onClick="onShare"
+        android:icon="@mipmap/ic_magnify_white_24dp"
+        android:orderInCategory="2"
+        android:title="@string/action_share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/settings"
+        android:onClick="onSettings"
+        android:icon="@mipmap/ic_magnify_white_24dp"
+        android:orderInCategory="3"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about"
+        android:onClick="onAbout"
+        android:icon="@mipmap/ic_magnify_white_24dp"
+        android:orderInCategory="4"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+
+</menu>
